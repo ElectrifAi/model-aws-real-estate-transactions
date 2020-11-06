@@ -7,3 +7,5 @@ Real Estate Transaction Propensity Model predicts likelihood of credit card cust
 
 
 SKU: REALE-PS-CBK-AWS-001
+
+AWS SageMaker: https://aws.amazon.com/marketplace/pp/prodview-fgc6ghfw7sbtw
